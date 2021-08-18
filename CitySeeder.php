@@ -516,7 +516,7 @@ class CitySeeder extends Seeder {
             ],
             [ // 100
                 'province_id' => 6,
-                'name' => 'KKab. Ogan Komering Ilir',
+                'name' => 'Kab. Ogan Komering Ilir',
                 'created_at' => now(),
             ],
         ];
